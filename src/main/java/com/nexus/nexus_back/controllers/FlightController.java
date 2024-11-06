@@ -1,4 +1,4 @@
-package com.nexus.nexus_back.controller;
+package com.nexus.nexus_back.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

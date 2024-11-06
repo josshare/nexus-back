@@ -1,4 +1,4 @@
-package com.nexus.nexus_back.controller;
+package com.nexus.nexus_back.controllers;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.security.access.prepost.PreAuthorize;
