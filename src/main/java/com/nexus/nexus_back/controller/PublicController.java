@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/public")
 @RequiredArgsConstructor
 public class PublicController {
-    @RequestMapping("/")
+    @RequestMapping("/home")
     String home() {
         return "Hello World!";
     }

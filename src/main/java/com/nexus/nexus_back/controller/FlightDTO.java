@@ -4,6 +4,5 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 
-public record FligthDTO {
-    String nombre
+public record FlightDTO(String destination) {
 }
