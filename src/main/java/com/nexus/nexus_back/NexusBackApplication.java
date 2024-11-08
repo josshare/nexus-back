@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NexusBackApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(NexusBackApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(NexusBackApplication.class, args);
+    }
 
 }
